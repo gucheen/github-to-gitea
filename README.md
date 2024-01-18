@@ -14,4 +14,4 @@ simple node script to migrate all your github repos to gitea
 1. git clone
 2. npm intall
 3. fill necessary variables in `index.js` (token, gitea server url, github username)
-4. `npm start` or `node index.js``
+4. `npm start` or `node index.js`
