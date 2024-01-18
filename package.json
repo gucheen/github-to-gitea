@@ -1,0 +1,21 @@
+{
+  "name": "github-to-gitea",
+  "version": "1.0.0",
+  "description": "migrate your github repos to gitea",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["github", "gitea", "migrate"],
+  "author": "gucheen<guchengf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "superagent": "^8.1.2"
+  },
+  "engines": {
+    "node": "20"
+  }
+}
