@@ -6,7 +6,7 @@ simple node script to migrate all your github repos to gitea
 
 - migrate all your own repos
 - bypass exists on gitea (same repo name)
-- description, issues, labels, pull_requests, releases, wiki migrate by default
+- description, issues, labels, pull_requests, releases, wiki are migrated by default
 - visibility followed github's setting
 
 ## Useage
